@@ -1,4 +1,4 @@
 # hangman
 #I am just stupid man.
-another test
-So last commit
+another test.
+So last commit.
